@@ -1,0 +1,12 @@
+td {color:black;}
+th {color:black;}
+h2 {font-family:arial;}
+h1 {text-align:center;}
+html { 
+background: url(blue1.jpg) no-repeat center center fixed; 
+
+-webkit-background-size: cover; 
+-moz-background-size: cover; 
+-o-background-size: cover; 
+background-size: cover; 
+} 
